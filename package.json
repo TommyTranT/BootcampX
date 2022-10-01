@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/haitran1995/BootcampX/issues"
   },
-  "homepage": "https://github.com/haitran1995/BootcampX#readme"
+  "homepage": "https://github.com/haitran1995/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
 }
